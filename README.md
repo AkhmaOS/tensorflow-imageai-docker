@@ -3,7 +3,7 @@
 #### clone this repository
 
 #### go to tensor
-<code> cp tensor </code>
+<code> cd tensor </code>
 #### download resnet 
 <code> wget https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5 </code>
 
